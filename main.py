@@ -1,5 +1,5 @@
 import typer
-
+#Бетин Вячеслав лабораторная работа 1 23.01.2023
 from vad.evaluate import evaluate_vad_from_scratch
 from vad.predict import predict_vad_from_scratch
 from vad.train import train_vad_from_scratch
